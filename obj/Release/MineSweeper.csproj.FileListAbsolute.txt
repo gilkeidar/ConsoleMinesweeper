@@ -1,0 +1,13 @@
+C:\Users\keida\OneDrive\Documents\Repos\MineSweeper\MineSweeper\bin\Release\MineSweeper.exe.config
+C:\Users\keida\OneDrive\Documents\Repos\MineSweeper\MineSweeper\bin\Release\MineSweeper.exe.manifest
+C:\Users\keida\OneDrive\Documents\Repos\MineSweeper\MineSweeper\bin\Release\MineSweeper.application
+C:\Users\keida\OneDrive\Documents\Repos\MineSweeper\MineSweeper\bin\Release\MineSweeper.exe
+C:\Users\keida\OneDrive\Documents\Repos\MineSweeper\MineSweeper\bin\Release\MineSweeper.pdb
+C:\Users\keida\OneDrive\Documents\Repos\MineSweeper\MineSweeper\obj\Release\MineSweeper.csprojAssemblyReference.cache
+C:\Users\keida\OneDrive\Documents\Repos\MineSweeper\MineSweeper\obj\Release\MineSweeper.csproj.CoreCompileInputs.cache
+C:\Users\keida\OneDrive\Documents\Repos\MineSweeper\MineSweeper\obj\Release\MineSweeper.exe.manifest
+C:\Users\keida\OneDrive\Documents\Repos\MineSweeper\MineSweeper\obj\Release\MineSweeper.application
+C:\Users\keida\OneDrive\Documents\Repos\MineSweeper\MineSweeper\obj\Release\MineSweeper.exe
+C:\Users\keida\OneDrive\Documents\Repos\MineSweeper\MineSweeper\obj\Release\MineSweeper.pdb
+C:\Users\keida\OneDrive\Documents\Repos\MineSweeper\MineSweeper\obj\Release\MineSweeper.Properties.Resources.resources
+C:\Users\keida\OneDrive\Documents\Repos\MineSweeper\MineSweeper\obj\Release\MineSweeper.csproj.GenerateResource.cache
