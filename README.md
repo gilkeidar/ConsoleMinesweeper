@@ -3,7 +3,7 @@ Console Minesweeper (Text-based) game written in C#.
 
 ## To run the game
 
-Go to this path: C:\Users\keida\OneDrive\Documents\Repos\MineSweeper\MineSweeper\bin\Release and run the Minesweeper.exe file.
+Go to this path: bin\Release and run the Minesweeper.exe file.
 
 ## Rules
 
