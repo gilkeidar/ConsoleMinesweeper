@@ -1,4 +1,4 @@
-# ConsoleMinesweeper
+# Console Minesweeper
 Console Minesweeper (Text-based) game written in C#.
 
 ## To run the game
